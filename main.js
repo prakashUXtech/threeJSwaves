@@ -71,7 +71,7 @@ mesh.geometry.setAttribute(
 
 
 controls.update();
-controls.enableZoom  = false;
+controls.enableZoom  = true;
 // create a render loop function here
 let frame = 0
 function animate(){
